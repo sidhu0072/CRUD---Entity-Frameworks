@@ -11,11 +11,6 @@ namespace CRUD___Entity_Frameworks
     public class UserContext : DbContext
     {
         public DbSet<User> Users { get; set; }
-
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer(@"YourConnectionStringHere"); // Replace with your actual connection string
-        }
     }
 
 }
