@@ -1,0 +1,5 @@
+C:\Users\singhg389\source\repos\CRUD - Entity Frameworks\CRUD - Entity Frameworks\obj\Debug\net6.0\CRUD - Entity Frameworks.csproj.AssemblyReference.cache
+C:\Users\singhg389\source\repos\CRUD - Entity Frameworks\CRUD - Entity Frameworks\obj\Debug\net6.0\CRUD - Entity Frameworks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\singhg389\source\repos\CRUD - Entity Frameworks\CRUD - Entity Frameworks\obj\Debug\net6.0\CRUD - Entity Frameworks.AssemblyInfoInputs.cache
+C:\Users\singhg389\source\repos\CRUD - Entity Frameworks\CRUD - Entity Frameworks\obj\Debug\net6.0\CRUD - Entity Frameworks.AssemblyInfo.cs
+C:\Users\singhg389\source\repos\CRUD - Entity Frameworks\CRUD - Entity Frameworks\obj\Debug\net6.0\CRUD - Entity Frameworks.csproj.CoreCompileInputs.cache
