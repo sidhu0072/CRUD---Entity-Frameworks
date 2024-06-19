@@ -6,9 +6,6 @@ using System.Threading.Tasks;
 
 namespace CRUD___Entity_Frameworks
 {
-    using System.Collections.Generic;
-    using System.Linq;
-
     public class UserRepository
     {
         public List<User> ListAllUsers()
