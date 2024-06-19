@@ -19,12 +19,12 @@ public class Program
         Console.WriteLine("Initial user list:");
         PrintUsers(repository.ListAllUsers());
 
-        User newUser = new User { Name = "John Doe", Email = "john.doe@example.com" };
+        User newUser = new User { Name = "Gurvinder Singh", Email = "gurvindersingh@gmail.com" };
         repository.AddUser(newUser);
         Console.WriteLine("After adding a new user:");
         PrintUsers(repository.ListAllUsers());
 
-        newUser.Name = "John A. Doe";
+        newUser.Name = "Gurvinder Singh Sidhu";
         repository.UpdateUser(newUser);
         Console.WriteLine("After updating the user:");
         PrintUsers(repository.ListAllUsers());
